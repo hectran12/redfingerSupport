@@ -14,9 +14,6 @@ Hỗ trợ việc đăng nhập redfinger bằng localstorage
 Hỗ trợ việc đăng nhập redfinger bằng localstorage
 
 ## Yêu Cầu Hệ Thống
-
-Liệt kê các yêu cầu hệ thống để chạy dự án của bạn. Ví dụ:
-
 - Điện thoại (Android): sử dụng Kiwi browser để cài extension
 - Máy tính (PC): sử dụng chrome, edge... miễn là nhân chromium để cài extension
 
